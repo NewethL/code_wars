@@ -1,2 +1,2 @@
-# code_wars
+# Code Wars
 Les codes wars a faire 
